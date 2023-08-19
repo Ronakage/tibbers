@@ -2,6 +2,7 @@
 A Discord bot made to detect insults/toxicity using Pytorch
 
 ## Model
+```
 ================================================================
                Kernel Shape Output Shape      Params   Mult-Adds
 Layer                                                           
@@ -38,4 +39,4 @@ Layer
 | epoch   2 |  113.333 seconds elapsed | accuracy    0.913 | loss    0.001
 | epoch   3 |  108.886 seconds elapsed | accuracy    0.916 | loss    0.001
 | epoch   4 |  110.584 seconds elapsed | accuracy    0.917 | loss    0.001
-
+```
