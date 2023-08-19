@@ -12,6 +12,8 @@ The bot reads every message sent on the server and it responds to a message if t
 4. [Advice Slip JSON API](https://api.adviceslip.com/advice)
    This API sends back advice that hopefully helps the sender to calm their own nerves down.
 
+- The deep learning model was trained using the data from [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+
 
 ## Model
 ```
