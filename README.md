@@ -1,5 +1,3 @@
-<img width="799" alt="Screenshot 2023-08-19 at 7 00 23 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/7d73ac74-2dec-44d0-94f5-01c5666ee60b">
-<img width="799" alt="Screenshot 2023-08-19 at 7 06 58 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/77379569-ce05-45ba-b56e-9d5fbb44198b">
 # Tibbers
 A Discord bot made to detect insults/toxicity using Pytorch
 
