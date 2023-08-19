@@ -1,6 +1,18 @@
 # Tibbers
 A Discord bot made to detect insults/toxicity using Pytorch
 
+## What Does It Do and How?
+The bot reads every message sent on the server and it responds to a message if the sender sent a toxic, severely toxic, threatening, obscene, hateful or insulting message. It responds randomly using 4 different APIs:
+1 - https://www.boredapi.com/api/activity/
+    This API is used to give something to do to the sender as if the hateful message was out of boredom.
+2 - https://evilinsult.com/generate_insult.php?lang=en&type=json
+    This API insults back in a clever/funny way.
+3 - https://api.themotivate365.com/stoic-quote
+    This API sends back a stoic quote in order to humble the sender.
+4 - https://api.adviceslip.com/advice
+    This API sends back advice that hopefully helps the sender to calm their own nerves down.
+
+
 ## Model
 ```
 ================================================================
