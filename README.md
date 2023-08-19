@@ -1,3 +1,5 @@
+<img width="799" alt="Screenshot 2023-08-19 at 7 00 23 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/7d73ac74-2dec-44d0-94f5-01c5666ee60b">
+<img width="799" alt="Screenshot 2023-08-19 at 7 06 58 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/77379569-ce05-45ba-b56e-9d5fbb44198b">
 # Tibbers
 A Discord bot made to detect insults/toxicity using Pytorch
 
@@ -54,3 +56,13 @@ Layer
 | epoch   3 |  108.886 seconds elapsed | accuracy    0.916 | loss    0.001
 | epoch   4 |  110.584 seconds elapsed | accuracy    0.917 | loss    0.001
 ```
+## Demo
+<img width="799" alt="Screenshot 2023-08-19 at 7 00 23 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/19c5983a-ad16-435a-b2c0-1678ecf7df73">
+<img width="799" alt="Screenshot 2023-08-19 at 7 06 58 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/89509e3f-ef31-4ffc-a3b2-a50a9c822456">
+<img width="799" alt="Screenshot 2023-08-19 at 7 10 58 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/9308df77-4048-40fd-b6fb-88146910164e">
+<img width="818" alt="Screenshot 2023-08-19 at 7 13 35 PM" src="https://github.com/Ronakage/tibbers/assets/44824530/da94293b-926b-4864-a8c0-dcc19e081e44">
+
+
+
+
+
